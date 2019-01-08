@@ -13,5 +13,7 @@ public class HashMapDemo {
 		map.put("ccc", 1);
 		map.put("ddd", 1);
 		
+		System.out.println("Hello Git Hub...");
+		
 	}
 }
